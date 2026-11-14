@@ -1,0 +1,4 @@
+ADD:         15
+SUB:          5
+AND:          8
+tb_alu_core.v:30: $finish called at 30 (1s)

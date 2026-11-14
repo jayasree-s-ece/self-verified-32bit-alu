@@ -1,0 +1,5 @@
+read_verilog alu_core.v
+read_verilog checker.v
+read_verilog alu_top.v
+synth -top alu_top
+stat

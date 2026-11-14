@@ -1,0 +1,19 @@
+Generated 864 functional vectors -> functional_vectors.csv
+Generated 1024 fault vectors -> fault_inject_vectors.csv
+
+========================================
+Op       Detected    Total     Rate
+----------------------------------------
+ADD           128      128     100%
+SUB           128      128     100%
+AND           128      128     100%
+OR            128      128     100%
+XOR           128      128     100%
+SLT           128      128     100%
+SLL           128      128     100%
+SRL           128      128     100%
+----------------------------------------
+ALL          1024     1024     100%
+PASS
+========================================
+
