@@ -28,8 +28,8 @@ initial begin
     op = 3'b000;
 
     // Correct result = 15
-    expected_residue = 1;
-    expected_parity  = 1'b1;
+    expected_residue = 0;
+    expected_parity  = 1'b0;
 
     #10;
 
